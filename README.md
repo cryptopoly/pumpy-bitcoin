@@ -1,11 +1,10 @@
-Clumsy Bird
+Pumpy Bitcoin
 ===========
 
-A MelonJS made "Flappy Bird" clone.
+A MelonJS made "Flappy Bird" clone, cloned again into "Pumpy Bitcoin".
 
-![](http://i.imgur.com/Slbvt65.png)
 
-Play online at http://ellisonleao.github.io/clumsy-bird/
+Play online at https://earn.rewardportal.com/Arcade/Pumpybitcoin
 
 [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/ellisonleao/clumsy-bird/tree/gh-pages)
 
